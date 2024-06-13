@@ -1,0 +1,10 @@
+C:\Users\Canlas\source\repos\ChaseTechTask\ChaseTechTask\bin\Debug\ChaseTechTask.exe.config
+C:\Users\Canlas\source\repos\ChaseTechTask\ChaseTechTask\bin\Debug\ChaseTechTask.exe
+C:\Users\Canlas\source\repos\ChaseTechTask\ChaseTechTask\bin\Debug\ChaseTechTask.pdb
+C:\Users\Canlas\source\repos\ChaseTechTask\ChaseTechTask\obj\Debug\ChaseTechTask.csproj.AssemblyReference.cache
+C:\Users\Canlas\source\repos\ChaseTechTask\ChaseTechTask\obj\Debug\ChaseTechTask.Form1.resources
+C:\Users\Canlas\source\repos\ChaseTechTask\ChaseTechTask\obj\Debug\ChaseTechTask.Properties.Resources.resources
+C:\Users\Canlas\source\repos\ChaseTechTask\ChaseTechTask\obj\Debug\ChaseTechTask.csproj.GenerateResource.cache
+C:\Users\Canlas\source\repos\ChaseTechTask\ChaseTechTask\obj\Debug\ChaseTechTask.csproj.CoreCompileInputs.cache
+C:\Users\Canlas\source\repos\ChaseTechTask\ChaseTechTask\obj\Debug\ChaseTechTask.exe
+C:\Users\Canlas\source\repos\ChaseTechTask\ChaseTechTask\obj\Debug\ChaseTechTask.pdb
